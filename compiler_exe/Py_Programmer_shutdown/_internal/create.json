@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    {
+      "task_name": "PY_SHUTDOWN_Apagado_Base_1_20260308_110810",
+      "kind": "daily",
+      "created_at": "2026-03-08 11:08:10",
+      "schedule_at": null,
+      "detail": {
+        "time": "23:55"
+      }
+    }
+  ]
+}
